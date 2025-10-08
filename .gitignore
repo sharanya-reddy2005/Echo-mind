@@ -1,0 +1,31 @@
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# ---- Virtual Environments ----
+venv/
+ENV/
+env/
+.venv/
+
+# ---- IDE & OS files ----
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# ---- Build / Cache ----
+*.log
+*.sqlite3
+*.db
+.cache/
+*.egg-info/
+dist/
+build/
+*.spec
+
+# ---- Others ----
+*.ipynb_checkpoints/
